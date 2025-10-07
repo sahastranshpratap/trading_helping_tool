@@ -1,0 +1,61 @@
+.login-container {
+  padding: 40px;
+  margin-top: 40px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.forgot-password {
+  color: #4f46e5;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+.social-button {
+  border: 1px solid #e5e7eb !important;
+  border-radius: 8px !important;
+  padding: 12px !important;
+}
+
+.social-button:hover {
+  background-color: #f9fafb !important;
+}
+
+.sign-up-link {
+  color: #4f46e5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.sign-up-link:hover {
+  text-decoration: underline;
+}
+
+.MuiPaper-root {
+  background-color: #1a1a1a !important;
+}
+
+.MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.MuiButton-contained {
+  background-color: #1976d2 !important;
+}
+
+.MuiButton-contained:hover {
+  background-color: #1565c0 !important;
+}
+
+.MuiLink-root {
+  color: #1976d2 !important;
+}
+
+.MuiLink-root:hover {
+  color: #1565c0 !important;
+} 
